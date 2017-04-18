@@ -1,4 +1,3 @@
-#chat [data-cid^='3926149-'] .un:before,
 #chat [data-cid^='4405644-'] .un:before,
 #chat [data-cid^='3250095-'] .un:before,
 #chat [data-cid^='5658276-'] .un:before {
@@ -7,14 +6,12 @@
     Left: -3px;
     position: relative;
 }
-#chat [data-cid^='3926149-'] .un,
 #chat [data-cid^='4405644-'] .un,
 #chat [data-cid^='3250095-'] .un,
 #chat [data-cid^='5658276-'] .un {
     top: -3px !important;
     position: relative;
 }
-#chat [data-cid^='3926149-'] .un:hover:after,
 #chat [data-cid^='4405644-'] .un:hover:after,
 #chat [data-cid^='3250095-'] .un:hover:after,
 #chat [data-cid^='5658276-'] .un:hover:after {
@@ -39,6 +36,20 @@ BOT
     bottom: 20px;
     position: absolute;
     left: 9px;
+    width: 79px;
+    height: 26px;
+}
+/*
+DATABASE
+*/
+#chat [data-cid^='3926149-'] .un:hover:after {
+    content: 'Otaku Fedido';
+    background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
+    position: absolute;
+    left: 12px;
     width: 79px;
     height: 26px;
 }
