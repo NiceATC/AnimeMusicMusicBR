@@ -1,0 +1,77 @@
+/*donators:
+iToxicMusic: 19157671
+Satskhi:     4405644
+Pombär:      3250095
+Timowh:      5658276
+*/
+
+#chat [data-cid^='19157671-'] .un:before,
+#chat [data-cid^='4405644-'] .un:before,
+#chat [data-cid^='3250095-'] .un:before,
+#chat [data-cid^='5658276-'] .un:before {
+    content: url("https://dl.dropboxusercontent.com/s/snctnlwc2lz5b0p/EDT-supporter.png");
+    top: 3px;
+    Left: -3px;
+    position: relative;
+}
+#chat [data-cid^='19157671-'] .un,
+#chat [data-cid^='4405644-'] .un,
+#chat [data-cid^='3250095-'] .un,
+#chat [data-cid^='5658276-'] .un {
+    top: -3px !important;
+    position: relative;
+}
+#chat [data-cid^='19157671-'] .un:hover:after,
+#chat [data-cid^='4405644-'] .un:hover:after,
+#chat [data-cid^='3250095-'] .un:hover:after,
+#chat [data-cid^='5658276-'] .un:hover:after {
+    content: 'EDT Supporter';
+    background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
+    position: absolute;
+    left: 5px;
+    width: 79px;
+    height: 26px;
+}
+/*normal supporters*/
+#user-rollover.id-19157671.chat .meta,
+#user-rollover.id-3250095.chat .meta{
+height: 146px !important;
+}
+#user-rollover.id-19157671.chat .meta:before,
+#user-rollover.id-3250095.chat .meta:before{
+    content: url("https://dl.dropboxusercontent.com/s/snctnlwc2lz5b0p/EDT-supporter.png");
+    top: 120px;
+    left: 109px;
+    position: absolute;
+}
+#user-rollover.id-19157671.chat .meta:after,
+#user-rollover.id-3250095.chat .meta:after{
+    content: 'EDT Supporter';
+    color: #808691;
+    position: absolute;
+    top: 118px;
+    left: 130px;
+}
+/*People who also support another things (eg. RCS)*/
+#user-rollover.id-4405644.chat .meta,
+#user-rollover.id-5658276.chat .meta{
+height: 170px !important;
+}
+#user-rollover.id-4405644.chat .meta:before,
+#user-rollover.id-5658276.chat .meta:before{
+    content: url("https://dl.dropboxusercontent.com/s/snctnlwc2lz5b0p/EDT-supporter.png");
+    top: 145px;
+    left: 109px;
+    position: absolute;
+}
+#user-rollover.id-4405644.chat .meta:after,
+#user-rollover.id-5658276.chat .meta:after{
+    content: 'EDT Supporter';
+    color: #808691;
+    position: absolute;
+    top: 143px;
+    left: 130px;
+}
