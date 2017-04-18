@@ -107,3 +107,25 @@
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* Hell_Girl666 */
+
+/* rizkeyla */
+[data-cid^="14885459-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/yWP7ni4.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-14885459 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/yWP7ni4.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="14885459-"] .msg .from .un {
+    color: #ac76ff !important;
+}
+[data-cid^="14885459-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* rizkeyla */
