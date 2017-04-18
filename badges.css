@@ -1,4 +1,4 @@
-/* V1TU4L */
+/* V1RTU4L */
 [data-cid^="3473197-"] .badge-box .bdg {
     border-radius: 5px !important;
     background-image: url("https://res.cloudinary.com/hhberclba/image/upload/c_fill,f_auto,fl_lossy,h_400,q_75,w_400/v1456207670/pgqg1l672vsppelpsils.gif") !important;
@@ -18,7 +18,7 @@
     background: rgba(37,185,97,0.3) !important;
     border-left: rgb(37,185,97) 3px solid !important;
 }
-/* V1TU4L */
+/* V1RTU4L */
 
 /* DATABASE */
 [data-cid^="3926149-"] .badge-box .bdg {
@@ -41,3 +41,25 @@
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* DATABASE */
+
+/* Sawada-Tsunayoshi */
+[data-cid^="3819537-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://i.giphy.com/tvkUmfGLaqWOc.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-3819537 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://i.giphy.com/tvkUmfGLaqWOc.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="3819537-"] .msg .from .un {
+    color: #ac76ff !important;
+}
+[data-cid^="3819537-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* Sawada-Tsunayoshi */
