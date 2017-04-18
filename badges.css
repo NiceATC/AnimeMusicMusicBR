@@ -5,7 +5,7 @@
     background-repeat: round !important;
     background-size: 30px !important;
 }
-#user-rollover.id-13720951 .badge-box .bdg {
+#user-rollover.id-3473197 .badge-box .bdg {
     border-radius: 5px !important;
     background-image: url("https://i.giphy.com/ZDptwqInaDi0M.gif") !important;
     background-repeat: round !important;
@@ -15,28 +15,6 @@
     color: #25b961 !important;
 }
 [data-cid^="3473197-"] #chat .emote {
-    background: rgba(37,185,97,0.3) !important;
-    border-left: rgb(37,185,97) 3px solid !important;
-}
-/* V1TU4L */
-
-/* DATABASE */
-[data-cid^="3926149-"] .badge-box .bdg {
-    border-radius: 5px !important;
-    background-image: url("https://i.imgur.com/4dRlHRr.png") !important;
-    background-repeat: round !important;
-    background-size: 30px !important;
-}
-#user-rollover.id-13720951 .badge-box .bdg {
-    border-radius: 5px !important;
-    background-image: url("https://i.imgur.com/4dRlHRr.png") !important;
-    background-repeat: round !important;
-    background-size: 30px !important;
-}
-[data-cid^="3926149-"] .msg .from .un {
-    color: #25b961 !important;
-}
-[data-cid^="3926149-"] #chat .emote {
     background: rgba(37,185,97,0.3) !important;
     border-left: rgb(37,185,97) 3px solid !important;
 }
