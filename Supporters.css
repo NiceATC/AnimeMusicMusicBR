@@ -39,7 +39,7 @@ Timowh:      5658276
 BOT
 */
 #chat [data-cid^='15656945-'] .un:hover:after {
-    content: 'BOT AMMBR ';
+    content: 'BOT AMMBR';
     background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
     padding: 3px 6px;
     color: white;
