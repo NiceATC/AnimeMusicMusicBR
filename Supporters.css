@@ -56,20 +56,20 @@ height: 146px !important;
     left: 130px;
 }
 /*People who also support another things (eg. RCS)*/
-#user-rollover.id-4405644.chat .meta,
+#user-rollover.id-15656945.chat .meta,
 #user-rollover.id-5658276.chat .meta{
 height: 170px !important;
 }
-#user-rollover.id-4405644.chat .meta:before,
+#user-rollover.id-15656945.chat .meta:before,
 #user-rollover.id-5658276.chat .meta:before{
     content: url("http://i.imgur.com/XrhgzjI.png");
     top: 145px;
     left: 109px;
     position: absolute;
 }
-#user-rollover.id-4405644.chat .meta:after,
+#user-rollover.id-15656945.chat .meta:after,
 #user-rollover.id-5658276.chat .meta:after{
-    content: 'HELL-Senpai';
+    content: 'BOT AMMBR >.<';
     color: #808691;
     position: absolute;
     top: 143px;
