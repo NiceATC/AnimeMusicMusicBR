@@ -1,20 +1,16 @@
-#chat [data-cid^='4405644-'] .un:before,
-#chat [data-cid^='3250095-'] .un:before,
-#chat [data-cid^='5658276-'] .un:before {
+#chat [data-cid^='-'] .un:before {
     content: url("http://i.imgur.com/XrhgzjI.png");
     top: 3px;
     Left: -3px;
     position: relative;
 }
-#chat [data-cid^='4405644-'] .un,
-#chat [data-cid^='3250095-'] .un,
-#chat [data-cid^='5658276-'] .un {
+
+#chat [data-cid^='-'] .un {
     top: -3px !important;
     position: relative;
 }
-#chat [data-cid^='4405644-'] .un:hover:after,
-#chat [data-cid^='3250095-'] .un:hover:after,
-#chat [data-cid^='5658276-'] .un:hover:after {
+
+#chat [data-cid^='-'] .un:hover:after {
     content: 'HELL-Senpai';
     background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
     padding: 3px 6px;
