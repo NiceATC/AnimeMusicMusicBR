@@ -2112,3 +2112,83 @@
 {
       background-color:                  rgba(84, 123, 160, 1) !important;             
 }
+
+/*******/
+/*ROLES*/
+/*******/
+
+.cm.role-dj .from .un, .role-dj .name
+{
+        color: #547bc9 !important;
+}
+
+.icon-chat-dj 
+{
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_RDJ.png") !important;
+}
+
+.cm.role-bouncer .from .un, .role-bouncer .name
+{
+        color: #626cbc !important;
+}
+
+.icon-chat-bouncer 
+{
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Bouncer.png");
+}
+
+.cm.role-manager .from .un, .role-manager .name
+{
+        color: #7854a9 !important;
+}
+
+.icon-chat-manager 
+{
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Manager.png");
+}
+
+.cm.role-cohost .from .un, .role-cohost .name, .cm.role-host .from .un, .role-host .name
+{
+        color: #87449c !important;
+}
+
+.icon-chat-cohost 
+{
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_CoHost.png");
+}
+
+.icon-chat-host 
+{
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_CoHost.png"); /* host badge shows up even for co-hosts so i'll leave it universal as co-host badge */
+}
+
+.icon-chat-ambassador 
+{
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_BA.png");
+}
+
+/* According Colors for the-user-profile role names */
+.left .info .role .icon.icon-chat-silver-subscriber + span {
+    color: #8694b2 !important;
+}
+.left .info .role .icon.icon-chat-subscriber + span {
+    color: #c59840 !important;
+}
+.left .info .role .icon.icon-chat-dj + span {
+    color: #547bc9 !important;
+}
+.left .info .role .icon.icon-chat-bouncer + span {
+    color: #626cbc !important;
+}
+.left .info .role .icon.icon-chat-manager + span {
+    color: #7854a9 !important;
+}
+.left .info .role .icon.icon-chat-host + span {
+    color: #87449c !important;
+}
+.left .info .role .icon.icon-chat-ambassador + span {
+    color: #89be6c !important;
+}
+.left .info .role .icon.icon-chat-admin + span {
+    color: blue;
+}
