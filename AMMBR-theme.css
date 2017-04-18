@@ -2082,22 +2082,22 @@
 /*BOT Customisation*/
 /*******************/
 
-#chat-messages .id-12386384 .badge-box i.bdg
+#chat-messages .id-15656945 .badge-box i.bdg
 {
         background-image:       url('https://i.imgur.com/F9gqHn6.gif');
         background-size:        cover;
 }
-#chat-messages .id-12386384 
+#chat-messages .id-15656945 
 {
        /* background: linear-gradient(85deg,#1F1232 0,#111317 33%,#111317 100%) !important;*/
         background: rgba(34, 23, 54, 0.33) !important;
         border-left: 3px solid #8230FF;
 }
-[data-cid^="12386384"] .msg .from .un 
+[data-cid^="15656945"] .msg .from .un 
 {
         color: #ac76ff !important;
 }
-#chat-messages .id-12386384 .badge-box 
+#chat-messages .id-15656945 .badge-box 
 {
         background:none;
 }
@@ -2106,7 +2106,7 @@
         background: rgba(34, 23, 54, 0.33) !important;
         border-left: 3px solid #8230FF;
 }
-#chat-messages .id-12386384 .icon {
+#chat-messages .id-15656945 .icon {
     display: none;
 }
 
