@@ -35,43 +35,17 @@ Timowh:      5658276
     width: 79px;
     height: 26px;
 }
-/*normal supporters*/
-#user-rollover.id-15656945.chat .meta,
-#user-rollover.id-3250095.chat .meta{
-height: 146px !important;
-}
-#user-rollover.id-15656945.chat .meta:before,
-#user-rollover.id-3250095.chat .meta:before{
-    top: 120px;
-    left: 109px;
-    position: absolute;
-}
-#user-rollover.id-15656945.chat .meta:after,
-#user-rollover.id-3250095.chat .meta:after{
+/*
+BOT
+*/
+#chat [data-cid^='15656945-'] .un:hover:after {
     content: 'BOT AMMBR >.<';
     background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
-    color: #808691;
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
     position: absolute;
-    top: 118px;
-    left: 130px;
-}
-/*People who also support another things (eg. RCS)*/
-#user-rollover.id-15656945.chat .meta,
-#user-rollover.id-5658276.chat .meta{
-height: 170px !important;
-}
-#user-rollover.id-15656945.chat .meta:before,
-#user-rollover.id-5658276.chat .meta:before{
-    content: url("http://i.imgur.com/XrhgzjI.png");
-    top: 145px;
-    left: 109px;
-    position: absolute;
-}
-#user-rollover.id-15656945.chat .meta:after,
-#user-rollover.id-5658276.chat .meta:after{
-    content: 'BOT AMMBR >.<';
-    color: #808691;
-    position: absolute;
-    top: 143px;
-    left: 130px;
+    left: 5px;
+    width: 79px;
+    height: 26px;
 }
