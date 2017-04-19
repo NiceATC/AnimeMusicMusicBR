@@ -49,3 +49,17 @@ DATABASE
     width: 79px;
     height: 26px;
 }
+/*
+Tardígrado
+*/
+#chat [data-cid^='14877874-'] .un:hover:after {
+    content: 'Otaku Fedido';
+    background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
+    position: absolute;
+    left: 12px;
+    width: 79px;
+    height: 26px;
+}
