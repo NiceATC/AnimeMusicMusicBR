@@ -63,3 +63,17 @@ Tardígrado
     width: 79px;
     height: 26px;
 }
+/*
+Sawada-Tsunayoshi
+*/
+#chat [data-cid^='3819537-'] .un:hover:after {
+    content: 'Super otaku fedido';
+    background: url('http://i.imgur.com/HdwNWu5.png');
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
+    position: absolute;
+    left: 12px;
+    width: 110px;
+    height: 26px;
+}
