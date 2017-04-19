@@ -168,16 +168,16 @@
 }
 /* -RhaegarTargaryen- */
 
-/* Mún 30x30 */
+/* Mún */
 [data-cid^="26380390-"] .badge-box .bdg {
     border-radius: 5px !important;
-    background-image: url("http://i.imgur.com/TjEE3m8.gif") !important;
+    background-image: url("https://i.giphy.com/uMUcWg5fIQhWM.gif") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
 #user-rollover.id-26380390 .badge-box .bdg {
     border-radius: 5px !important;
-    background-image: url("http://i.imgur.com/TjEE3m8.gif") !important;
+    background-image: url("https://i.giphy.com/uMUcWg5fIQhWM.gif") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
