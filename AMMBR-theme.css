@@ -2159,7 +2159,7 @@
 
 .icon-chat-host 
 {
-    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_CoHost.png"); /* host badge shows up even for co-hosts so i'll leave it universal as co-host badge */
+    background: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Host.png"); /* host badge shows up even for co-hosts so i'll leave it universal as co-host badge */
 }
 
 .icon-chat-ambassador 
