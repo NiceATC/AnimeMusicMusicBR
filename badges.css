@@ -1,13 +1,13 @@
 /* V1RTU4L */
 [data-cid^="3473197-"] .badge-box .bdg {
     border-radius: 5px !important;
-    background-image: url("https://res.cloudinary.com/hhberclba/image/upload/c_fill,f_auto,fl_lossy,h_400,q_75,w_400/v1456207670/pgqg1l672vsppelpsils.gif") !important;
+    background-image: url("http://i.imgur.com/tTY4zO5.gif") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
 #user-rollover.id-3473197 .badge-box .bdg {
     border-radius: 5px !important;
-    background-image: url("https://res.cloudinary.com/hhberclba/image/upload/c_fill,f_auto,fl_lossy,h_400,q_75,w_400/v1456207670/pgqg1l672vsppelpsils.gif") !important;
+    background-image: url("http://i.imgur.com/tTY4zO5.gif") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
@@ -99,9 +99,6 @@
     background-repeat: round !important;
     background-size: 30px !important;
 }
-[data-cid^="4311743-"] .msg .from .un {
-    color: #ac76ff !important;
-}
 [data-cid^="4311743-"] #chat .emote {
     background: rgba(37,185,97,0.3) !important;
     border-left: rgb(37,185,97) 3px solid !important;
@@ -142,9 +139,6 @@
     background-image: url("https://scontent.fcwb1-1.fna.fbcdn.net/v/t1.0-9/13939453_1000137836766251_8387609832615547965_n.jpg?oh=24cecfec8dba08f3e544e1ad883f5aef&oe=597F900E") !important;
     background-repeat: round !important;
     background-size: 30px !important;
-}
-[data-cid^="9799644-"] .msg .from .un {
-    color: #ac76ff !important;
 }
 [data-cid^="9799644-"] #chat .emote {
     background: rgba(37,185,97,0.3) !important;
@@ -187,7 +181,6 @@
     background-repeat: round !important;
     background-size: 30px !important;
 }
-
 [data-cid^="26380390-"] #chat .emote {
     background: rgba(37,185,97,0.3) !important;
     border-left: rgb(37,185,97) 3px solid !important;
@@ -206,9 +199,6 @@
     background-image: url("http://i.imgur.com/IuUFPkq.gif") !important;
     background-repeat: round !important;
     background-size: 30px !important;
-}
-[data-cid^="4473623-"] .msg .from .un {
-    color: #ac76ff !important;
 }
 [data-cid^="4473623-"] #chat .emote {
     background: rgba(37,185,97,0.3) !important;
