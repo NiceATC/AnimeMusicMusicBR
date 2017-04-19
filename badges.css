@@ -151,7 +151,7 @@
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* MihaCrazy */
-https://image.freepik.com/icones-gratis/quadrado-contorno-da-forma_318-50117.jpg
+
 /* -RhaegarTargaryen- */
 [data-cid^="3564548-"] .badge-box .bdg {
     border-radius: 5px !important;
@@ -173,3 +173,25 @@ https://image.freepik.com/icones-gratis/quadrado-contorno-da-forma_318-50117.jpg
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* -RhaegarTargaryen- */
+
+/* Mún */
+[data-cid^="26380390-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/LR436DO.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-26380390 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/LR436DO.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="26380390-"] .msg .from .un {
+    color: #ac76ff !important;
+}
+[data-cid^="26380390-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* Mún */
