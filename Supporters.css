@@ -4,6 +4,9 @@
     Left: -3px;
     position: relative;
 }
+[data-cid^="4473623-"] .msg .from .un {
+    color: #ac76ff !important;
+}
 
 #chat [data-cid^='4473623-'] .un {
     top: -3px !important;
