@@ -1,24 +1,24 @@
-#chat [data-cid^='-'] .un:before {
-    content: url("http://i.imgur.com/XrhgzjI.png");
+#chat [data-cid^='4473623-'] .un:before {
+    content: url("https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Host.png");
     top: 3px;
     Left: -3px;
     position: relative;
 }
 
-#chat [data-cid^='-'] .un {
+#chat [data-cid^='4473623-'] .un {
     top: -3px !important;
     position: relative;
 }
 
-#chat [data-cid^='-'] .un:hover:after {
-    content: 'HELL-Senpai';
+#chat [data-cid^='4473623-'] .un:hover:after {
+    content: 'Trallei';
     background: url('http://i.imgur.com/HdwNWu5.png');
     padding: 3px 6px;
     color: white;
     bottom: 20px;
     position: absolute;
     left: 5px;
-    width: 79px;
+    width: 60px;
     height: 26px;
 }
 /*
