@@ -12,7 +12,7 @@
 
 #chat [data-cid^='-'] .un:hover:after {
     content: 'HELL-Senpai';
-    background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
+    background: url('http://i.imgur.com/HdwNWu5.png');
     padding: 3px 6px;
     color: white;
     bottom: 20px;
@@ -26,13 +26,13 @@ BOT
 */
 #chat [data-cid^='15656945-'] .un:hover:after {
     content: 'Loli do V1RTU4L';
-    background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
+    background: url('http://i.imgur.com/HdwNWu5.png');
     padding: 3px 6px;
     color: white;
     bottom: 20px;
     position: absolute;
     left: 9px;
-    width: 79px;
+    width: 90px;
     height: 26px;
 }
 /*
@@ -40,7 +40,7 @@ DATABASE
 */
 #chat [data-cid^='3926149-'] .un:hover:after {
     content: 'Otaku Fedido';
-    background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
+    background: url('http://i.imgur.com/HdwNWu5.png');
     padding: 3px 6px;
     color: white;
     bottom: 20px;
@@ -54,7 +54,7 @@ Tardígrado
 */
 #chat [data-cid^='14877874-'] .un:hover:after {
     content: 'Otaku Fedido';
-    background: url('https://rawgit.com/Satskhi/EDTRCS/master/images/tooltip.png');
+    background: url('http://i.imgur.com/HdwNWu5.png');
     padding: 3px 6px;
     color: white;
     bottom: 20px;
