@@ -146,16 +146,16 @@
 }
 /* MihaCrazy */
 
-/* -RhaegarTargaryen- */
+/* -RhaegarTargaryen- 30x30 */
 [data-cid^="3564548-"] .badge-box .bdg {
     border-radius: 5px !important;
-    background-image: url("https://i.giphy.com/2MG5crMLoqMF2.gif") !important;
+    background-image: url("http://i.imgur.com/hcduEwE.gif") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
 #user-rollover.id-3564548 .badge-box .bdg {
     border-radius: 5px !important;
-    background-image: url("https://i.giphy.com/2MG5crMLoqMF2.gif") !important;
+    background-image: url("http://i.imgur.com/hcduEwE.gif") !important;
     background-repeat: round !important;
     background-size: 30px !important;
 }
