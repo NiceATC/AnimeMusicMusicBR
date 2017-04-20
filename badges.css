@@ -200,9 +200,6 @@
     background-repeat: round !important;
     background-size: 30px !important;
 }
-[data-cid^="4473623-"] .msg .from .un {
-    color: #ac76ff !important;
-}
 [data-cid^="4473623-"] #chat .emote {
     background: rgba(37,185,97,0.3) !important;
     border-left: rgb(37,185,97) 3px solid !important;
