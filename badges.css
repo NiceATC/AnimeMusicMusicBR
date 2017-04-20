@@ -268,3 +268,25 @@
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* DeadMiku */
+
+/* -Mugetsu- 30x30 */
+[data-cid^="3473197-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/H0UwOBL.jpg") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-3473197 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/H0UwOBL.jpg") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="3473197-"] .msg .from .un {
+    color: #ac76ff !important;
+}
+[data-cid^="3473197-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* -Mugetsu- */
