@@ -227,3 +227,44 @@
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* MikuDead */
+
+/* Gana 30x30 */
+[data-cid^="3606558-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/9y7qUDW.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-3606558 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/9y7qUDW.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="3606558-"] .msg .from .un {
+    color: #ac76ff !important;
+}
+[data-cid^="3606558-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* Gana */
+
+/* DeadMiku 30x30 */
+[data-cid^="3957463-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/iOPzw2Z.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-3957463 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/iOPzw2Z.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="3957463-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* DeadMiku */
