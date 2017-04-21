@@ -862,14 +862,6 @@
         -o-transition:          all 0.3s ease;
         transition:             all 0.3s ease;
 }
-.buttons:hover > .inventory, 
-.buttons:hover > .badge, 
-.buttons:hover > .store, 
-.buttons:hover > .profile, 
-.buttons:hover > .settings
-{
-        opacity:                0.5;
-}
 #footer-user .inventory:hover, 
 #footer-user .badge:hover, 
 #footer-user .store:hover, 
