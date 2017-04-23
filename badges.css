@@ -33,15 +33,13 @@
     background-repeat: round !important;
     background-size: 30px !important;
 }
-.id-3926149 > .badge-box > i.bdg
-{
+.id-3926149 > .badge-box > .bdg.g {
     background-image:    url("https://i.imgur.com/4dRlHRr.png");
     background-size:     cover;
     background-repeat:   no-repeat;
     background-position: center center;
 }
-#user-rollover.id-3926149 .badge-box > i.bdg
-{
+#user-rollover.id-3926149 .badge-box > .bdg.g {
     border-radius:       6px;
     background-image:    url("https://i.imgur.com/4dRlHRr.png");
     background-size:     cover;
