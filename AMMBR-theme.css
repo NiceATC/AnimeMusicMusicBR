@@ -348,6 +348,7 @@
 #room-bar .icon-room
 {
 	background: url("http://i.imgur.com/RiPBLWq.png") !important;
+	margin-top: -2px;
 }
 
 /* Friend Requests/Profile Notifications */
