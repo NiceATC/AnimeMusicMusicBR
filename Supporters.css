@@ -1,3 +1,27 @@
+/* V1RTU4L */
+#chat [data-cid^='3473197-'] .un:before {
+    content: url("http://i.imgur.com/Ow2Ufwc.png");
+    top: 3px;
+    Left: -3px;
+    position: relative;
+}
+#chat [data-cid^='3473197-'] .un {
+    top: -3px !important;
+    position: relative;
+}
+
+#chat [data-cid^='3473197-'] .un:hover:after {
+    content: 'Oberstgruppenführer';
+    background: url('http://i.imgur.com/HdwNWu5.png');
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
+    position: absolute;
+    left: 5px;
+    width: 30px;
+    height: 26px;
+}
+/* Delmiro */
 #chat [data-cid^='14706441-'] .un:before {
     content: url("http://i.imgur.com/WqiAUbY.png");
     top: 3px;
