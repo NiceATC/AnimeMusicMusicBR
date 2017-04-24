@@ -29,7 +29,7 @@
         "admin":                "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Admin.png",
         "ambassador":           "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_BA.png",
         "host":                 "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Host.png",
-        "cohost":               "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_CoHost.png",
+        "cohost":               "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Host.png",
         "manager":              "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Manager.png",
         "bouncer":              "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_Bouncer.png",
         "rdj":                  "https://cdn.bssecure.net/nc-themes/img/adGS_Ranks_RDJ.png",
