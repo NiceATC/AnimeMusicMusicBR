@@ -310,7 +310,7 @@
 }
 /* ♫Gαbs_Dєłмs♫ */
 
-/* ♫Gαbs_Dєłмs♫ 30x30 */
+/* ♫Gαbs_Dєłмs♫ */
 [data-cid^="14706441-"] .badge-box .bdg {
     border-radius: 5px !important;
     background-image: url("http://i.imgur.com/Zl6qGPZ.gif") !important;
@@ -331,3 +331,22 @@
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* ♫Gαbs_Dєłмs♫ */
+
+/* Solano Ulisses */
+[data-cid^="26619928-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://media.giphy.com/media/U2nN0ridM4lXy/giphy.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-26619928 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://media.giphy.com/media/U2nN0ridM4lXy/giphy.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="26619928-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* Solano Ulisses */
