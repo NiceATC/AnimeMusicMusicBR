@@ -100,3 +100,26 @@ Sawada-Tsunayoshi
     width: 115px;
     height: 26px;
 }
+/* Gana */
+#chat [data-cid^='3606558-'] .un:before {
+    content: url("http://i.imgur.com/Mvgw3bf.jpg");
+    top: 3px;
+    Left: -3px;
+    position: relative;
+}
+#chat [data-cid^='3606558-'] .un {
+    top: -3px !important;
+    position: relative;
+}
+
+#chat [data-cid^='3606558-'] .un:hover:after {
+    content: 'Gana ®';
+    background: url('http://i.imgur.com/HdwNWu5.png');
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
+    position: absolute;
+    left: 5px;
+    width: 115px;
+    height: 26px;
+}
