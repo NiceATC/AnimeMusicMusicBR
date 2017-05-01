@@ -1,0 +1,57 @@
+{
+    "onMention": [
+        {
+            "msgType": "contains",
+            "msgContains": [
+                "green",
+                "blue",
+                "red",
+                "orange"
+            ],
+            "botReply": [
+                "that is color!"
+            ]
+        },
+        {
+            "msgType": "contains",
+            "msgContains": [
+                "Origem Bot"
+            ],
+            "botReply": [
+                "Origem Bot is your virtual dog",
+                "Origem Bot is so cute",
+                "Origem Bot loves you",
+                "Origem Bot likes you",
+                "Origem Bot is chat-bot",
+                "yes?"
+            ]
+        },
+        {
+            "msgType": "mustBe",
+            "msgContains": [
+                "copy this message to chat"
+            ],
+            "botReply": [
+                "You writed \"copy this message to chat\"!"
+            ]
+        }
+    ],
+    "offMention": [
+        {
+            "msgContains": [
+                "hi",
+                "hello"
+            ],
+            "botReply": [
+                "hello!",
+                "hay!",
+                "welcome! \\o"
+            ]
+        }
+    ],
+    "global": [
+        "I'm BOT, please don't talk to me :(",
+        "I said, don't talk to me!",
+        "I dont understand. Please contact Staff!"
+    ]
+}
