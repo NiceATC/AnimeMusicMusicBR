@@ -11,6 +11,17 @@
     background-repeat: round !important;
     background-size: 30px !important;
 }
+#chat [data-cid^='15656945-'] .un:hover:after {
+    content: 'Loli do V1RTU4L';
+    background: url('http://i.imgur.com/HdwNWu5.png');
+    padding: 3px 6px;
+    color: white;
+    bottom: 20px;
+    position: absolute;
+    left: 9px;
+    width: 90px;
+    height: 26px;
+}
 [data-cid^="15656945-"] .msg {
     border-left: 3px solid #8230FF !important;
 }
