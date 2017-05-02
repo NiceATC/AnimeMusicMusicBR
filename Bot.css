@@ -18,4 +18,8 @@
     background: rgba(37,185,97,0.3) !important;
     border-left: rgb(37,185,97) 3px solid !important;
 }
+[data-cid^="15656945-"] #chat .emote .msg {
+    background: rgba(132, 51, 142, 0.17) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
 /* AMMBR BOT */
