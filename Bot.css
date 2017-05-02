@@ -14,12 +14,7 @@
 [data-cid^="15656945-"] .msg .from .un {
     color: #25b961 !important;
 }
-[data-cid^="15656945-"] .emote {
-    background: rgba(37,185,97,0.3) !important;
-    border-left: rgb(37,185,97) 3px solid !important;
-}
 [data-cid^="15656945-"] .msg {
-    background: rgba(132, 51, 142, 0.17) !important;
     border-left: 3px solid #8230FF !important;
 }
 /* AMMBR BOT */
