@@ -920,7 +920,7 @@
 }
 
 /* WOOT GRAB MEH */
-#meh, #woot, #grab
+#meh, #woot, #grab, #PPDlBtn
 {
         opacity:                0.6;
         -webkit-transition:     all 0.3s ease;
@@ -930,13 +930,15 @@
 }
 #vote:hover > #woot, 
 #vote:hover > #grab, 
-#vote:hover > #meh
+#vote:hover > #meh,
+#vote:hover > #PPDlBtn
 {
         opacity:                0.75;
 }
 #vote #woot:hover, 
 #vote #grab:hover, 
-#vote #meh:hover
+#vote #meh:hover,
+#vote #PPDlBtn:hover
 {
         opacity:                1;
 }
