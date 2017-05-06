@@ -350,3 +350,21 @@
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* Solano Ulisses */
+/* Wiome */
+[data-cid^="5727218-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://ae01.alicdn.com/kf/HTB18.iuIFXXXXaQapXXq6xXFXXXR/Japanese-Anime-Celestial-Method-Komiya-Nonoka-Noel-Hugging-Body-Back-Pillow-Cute-Cartoon-Pillow-For-Hotel.jpg") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-5727218 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("https://ae01.alicdn.com/kf/HTB18.iuIFXXXXaQapXXq6xXFXXXR/Japanese-Anime-Celestial-Method-Komiya-Nonoka-Noel-Hugging-Body-Back-Pillow-Cute-Cartoon-Pillow-For-Hotel.jpg") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="5727218-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* Wiome */
