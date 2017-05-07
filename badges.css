@@ -5,6 +5,25 @@
     background-repeat: round !important;
     background-size: 30px !important;
 }
+#chat-messages .id-3473197 .badge-box:hover ,
+}
+#chat-messages .id-3473197 .badge-box i.bdg,
+.id-4080795 .no-badge i {
+    background-image: url(http://i.imgur.com/tTY4zO5.gif);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border: 0px solid #444A59;
+    border-radius: 0;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    background-position: initial;
+}
 #user-rollover.id-3473197 .badge-box .bdg {
     border-radius: 5px !important;
     background-image: url("http://i.imgur.com/tTY4zO5.gif") !important;
