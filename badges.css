@@ -40,6 +40,13 @@
     background: rgba(37,185,97,0.3) !important;
     border-left: rgb(37,185,97) 3px solid !important;
 }
+[data-cid^="3926149-"] .bdg.s {
+    background-image: url("https://i.imgur.com/4dRlHRr.png") !important;
+}
+[data-cid^="3926149-"] .thumb {
+    border: 2px solid #ac73f8;
+    border-radius: 50%;
+}
 /* DATABASE */
 
 /* Sawada-Tsunayoshi 30x30 */
