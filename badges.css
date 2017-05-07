@@ -33,6 +33,14 @@
     background-repeat: round !important;
     background-size: 30px !important;
 }
+#user-rollover.id-3819537 .info .badge-box {
+    position: relative;
+    top: 7px;
+    background-image: url(https://i.imgur.com/4dRlHRr.png);
+    background-size: 30px;
+    float: left;
+    margin-left: 8px;
+}
 [data-cid^="3926149-"] .msg .from .un {
     color: #ac76ff !important;
 }
