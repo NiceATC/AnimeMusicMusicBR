@@ -14,12 +14,6 @@
 #user-rollover.id-15656945 .info .role i {
     background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
 }
-#user-lists.id-15656945 .list.room .user i {
-    background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
-}
-#waitlist.id-15656945 .list .user .name i {
-    background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
-}
 #chat [data-cid^='15656945-'] .un:hover:after {
     content: 'Loli do V1RTU4L';
     background: url('http://i.imgur.com/HdwNWu5.png');
