@@ -12,7 +12,13 @@
     background-size: 30px !important;
 }
 #user-rollover.id-15656945 .info .role i {
-    background-image: url(http://i.imgur.com/xa4FR0w.png);
+    background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
+}
+#user-lists.id-15656945 .list.room .user i {
+    background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
+}
+#waitlist.id-15656945 .list .user .name i {
+    background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
 }
 #chat [data-cid^='15656945-'] .un:hover:after {
     content: 'Loli do V1RTU4L';
@@ -29,6 +35,6 @@
     border-left: 3px solid #8230FF !important;
 }
 [data-cid^="15656945-"] .icon-chat-manager {
-    background-image: url(http://i.imgur.com/xa4FR0w.png);
+    background-image: url('http://i.imgur.com/xa4FR0w.png') !important;
 }
 /* AMMBR BOT */
