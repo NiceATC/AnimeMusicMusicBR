@@ -1,0 +1,305 @@
+.icon-woot {
+    background-image: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/Woot.png);
+    background-position: 0px 0px;
+}
+#woot.crowd-response.disabled .icon:before,
+#woot.crowd-response.selected .icon:before {
+    content: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/WootW.png);
+    position: absolute;
+    right: 0px;
+    padding: 0 1px;
+}
+#woot.crowd-response .icon:before {
+    content: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/Woot.png);
+    position: absolute;
+    right: 0px;
+    padding: 0 0px;
+}
+#woot:hover .icon:before {
+    -webkit-animation-name: woot;
+    animation-name: woot;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+}
+#woot .icon:before {
+    opacity: 0;
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@-webkit-keyframes woot {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(-1em);
+    transform: translateY(-1em);
+  }
+}
+#grab.crowd-response:not(.selected) .icon:after {
+    content: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/Grab.png);
+    position: absolute;
+    right: 0px;
+    padding: 1px 1px;
+}
+#grab.crowd-response.disabled .icon:after {
+    content: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/GrabW.png);
+    position: absolute;
+    right: 0px;
+    padding: 1px 0px;
+}
+#grab:hover .icon:after {
+    -webkit-animation-name: grab;
+    animation-name: grab;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+}
+#grab .icon:after {
+    opacity: 0;
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@-webkit-keyframes grab {
+  0% {
+    opacity: 1;
+    -webkit-transform: scale(1) translateZ(0);
+    transform: scale(1) translateZ(0);
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: scale(1.5) translateZ(0);
+    transform: scale(1.5) translateZ(0);
+  }
+}
+#meh.crowd-response.disabled .icon:after,
+#meh.crowd-response.selected .icon:after {
+    content: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/MehW.png);
+    position: absolute;
+    right: 0px;
+    padding: 0 1px;
+}
+#meh.crowd-response .icon:after {
+    content: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/Meh.png);
+    position: absolute;
+    right: 0px;
+    padding: 0 1px;
+}
+#meh:hover .icon:after {
+    -webkit-animation-name: meh;
+    animation-name: meh;
+    -webkit-animation-timing-function: ease-out;
+    animation-timing-function: ease-out;
+}
+#meh .icon:after {
+    opacity: 0;
+    -webkit-animation-duration: 0.5s;
+    animation-duration: 0.5s;
+    -webkit-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@-webkit-keyframes meh {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    -webkit-transform: translateY(1em);
+    transform: translateY(1em);
+  }
+}
+
+#woot.selected .icon, #grab.selected .icon, #meh.selected .icon {
+    animation: pulse 1s ease infinite;
+}
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+
+  50% {
+    transform: scale(1.5);
+  }
+
+  100% {
+    transform: scale(1);
+  }
+}
+#woot,
+#grab,
+#meh {
+    background-color: rgba(0, 0, 0, 0.20) !important;
+}
+#vote .crowd-response.disabled .bottom {
+    background: rgba(0, 0, 0, 0.28) !important;
+}
+
+#woot .bottom,
+#grab .bottom,
+#meh .bottom {
+    background-color: transparent !important;
+}
+#vote >#woot.crowd-response,
+#vote >#woot.crowd-response .bottom {
+    -webkit-box-shadow:     inset 0 -3px 0 0 rgb(37, 185, 97) !important;
+    -moz-box-shadow:        inset 0 -3px 0 0 rgb(37, 185, 97) !important;
+    -o-box-shadow:          inset 0 -3px 0 0 rgb(37, 185, 97) !important;
+    box-shadow:             inset 0 -3px 0 0 rgb(37, 185, 97) !important;
+}
+#vote >#woot.crowd-response.selected .bottom,
+#vote >#woot.crowd-response:hover .bottom {
+    -webkit-box-shadow:     inset 0 -24px 0 0 rgb(37, 185, 97) !important;
+    -moz-box-shadow:        inset 0 -24px 0 0 rgb(37, 185, 97) !important;
+    -o-box-shadow:          inset 0 -24px 0 0 rgb(37, 185, 97) !important;
+    box-shadow:             inset 0 -24px 0 0 rgb(37, 185, 97) !important;
+}
+#vote >#woot.crowd-response.selected {
+    -webkit-box-shadow:     inset 0 -61px 0 0 rgb(37, 185, 97) !important;
+    -moz-box-shadow:        inset 0 -61px 0 0 rgb(37, 185, 97) !important;
+    -o-box-shadow:          inset 0 -61px 0 0 rgb(37, 185, 97) !important;
+    box-shadow:             inset 0 -61px 0 0 rgb(37, 185, 97) !important;
+}
+#vote >#grab.crowd-response .bottom,
+#vote >#grab.crowd-response .bottom {
+    -webkit-box-shadow:     inset 0 -3px 0 0 rgb(170, 116, 255) !important;
+    -moz-box-shadow:        inset 0 -3px 0 0 rgb(170, 116, 255) !important;
+    -o-box-shadow:          inset 0 -3px 0 0 rgb(170, 116, 255) !important;
+    box-shadow:             inset 0 -3px 0 0 rgb(170, 116, 255) !important;
+}
+#vote >#grab.crowd-response.selected .bottom,
+#vote >#grab.crowd-response:hover .bottom {
+    -webkit-box-shadow:     inset 0 -24px 0 0 rgb(170, 116, 255) !important;
+    -moz-box-shadow:        inset 0 -24px 0 0 rgb(170, 116, 255) !important;
+    -o-box-shadow:          inset 0 -24px 0 0 rgb(170, 116, 255) !important;
+    box-shadow:             inset 0 -24px 0 0 rgb(170, 116, 255) !important;
+}
+#vote >#grab.crowd-response.selected {
+    -webkit-box-shadow:     inset 0 -61px 0 0 rgb(170, 116, 255) !important;
+    -moz-box-shadow:        inset 0 -61px 0 0 rgb(170, 116, 255) !important;
+    -o-box-shadow:          inset 0 -61px 0 0 rgb(170, 116, 255) !important;
+    box-shadow:             inset 0 -61px 0 0 rgb(170, 116, 255) !important;
+}
+#vote >#meh.crowd-response,
+#vote >#meh.crowd-response .bottom {
+    -webkit-box-shadow:     inset 0 -3px 0 0 rgb(196, 46, 59) !important;
+    -moz-box-shadow:        inset 0 -3px 0 0 rgb(196, 46, 59) !important;
+    -o-box-shadow:          inset 0 -3px 0 0 rgb(196, 46, 59) !important;
+    box-shadow:             inset 0 -3px 0 0 rgb(196, 46, 59) !important;
+}
+#vote >#meh.crowd-response.selected .bottom,
+#vote >#meh.crowd-response:hover .bottom {
+    -webkit-box-shadow:     inset 0 -24px 0 0 rgb(196, 46, 59) !important;
+    -moz-box-shadow:        inset 0 -24px 0 0 rgb(196, 46, 59) !important;
+    -o-box-shadow:          inset 0 -24px 0 0 rgb(196, 46, 59) !important;
+    box-shadow:             inset 0 -24px 0 0 rgb(196, 46, 59) !important;
+}
+#vote >#meh.crowd-response.selected {
+    -webkit-box-shadow:     inset 0 -61px 0 0 rgb(196, 46, 59) !important;
+    -moz-box-shadow:        inset 0 -61px 0 0 rgb(196, 46, 59) !important;
+    -o-box-shadow:          inset 0 -61px 0 0 rgb(196, 46, 59) !important;
+    box-shadow:             inset 0 -61px 0 0 rgb(196, 46, 59) !important;
+}
+#chat .un,
+#vote,
+#woot,
+#woot .top,
+#woot .bottom,
+#grab,
+#grab .top,
+#grab .bottom,
+#meh,
+#meh .top,
+#meh .bottom {
+    -webkit-transition:     all 0.3s ease;
+    -moz-transition:        all 0.3s ease;
+    -o-transition:          all 0.3s ease;
+    transition:             all 0.3s ease;
+}
+#dj-button {
+    width: 158px;
+    border-radius: 4px;
+    background-color: rgba(255, 255, 255, 0.1) !important;
+}
+#dj-button span {
+    margin-left: 5px;
+}
+#dj-button .left{
+    height: 61px;
+    border-radius: 4px;
+    width: 158px;
+    transition: 0.3s;
+}
+#dj-button .left .icon{
+    left: 65px;
+}
+#dj-button:not(.is-locked):hover .left {
+    top: -53px;
+}
+#dj-button.is-locked {
+    cursor: no-drop;
+}
+#dj-button.is-full .left, #dj-button.is-locked .left {
+    background:
+    linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.1)),
+    #484848
+}
+#dj-button.is-leave .left, #dj-button.is-quit .left {
+    background:
+    linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.1)),
+    #c42e3b
+}
+#dj-button .left {
+    background:
+    linear-gradient(rgba(255,255,255,.1), rgba(0,0,0,.1)),
+    #25b961
+}
+/*
+ ┌————————————————————┐
+ │  RCS Vote list     │
+ └————————————————————┘
+*/
+.votes-rs {
+    background-color: rgba(0, 0, 0, 0.50) !important;
+}
+#woot-rs .title {
+    background-color: #25b961;
+}
+#grab-rs .title {
+    background-color: #aa74ff;
+}
+#meh-rs .title {
+    background-color: #c42e3b;
+}
+/*
+ ┌————————————————————┐
+ │    Grab pop-up     │
+ └————————————————————┘
+*/
+.pop-menu.grab {
+    background: transparent;
+}
+.pop-menu.grab .bar {
+    background: linear-gradient(rgb(170, 116, 255), #925aff);
+    box-shadow: inset -157px 0 0 0 #222;
+}
+.pop-menu .bar .bar-divider {
+    background: #AAA;
+}
+.pop-menu.grab .menu::-webkit-scrollbar-thumb {
+    background: rgb(105, 68, 170) !important;
+}
+.pop-menu.grab .menu ul {
+    background: rgba(0,0,0,.5)
+}
+.pop-menu.grab .menu ul li:hover {
+    background: linear-gradient(rgba(170, 116, 255, .5), rgba(146, 90, 255, .5)) !important
+}
+.pop-menu.grab .menu ul li.create:hover {
+    background: linear-gradient(rgba(66, 165, 220, .5), rgba(0, 155, 221, .5)) !important
+}
+.pop-menu.grab .menu ul li:hover i {
+    filter: brightness(3);
+}
