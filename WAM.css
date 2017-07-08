@@ -1,3 +1,5 @@
+// WAM by Satskhi https://github.com/Satskhi
+
 .icon-woot {
     background-image: url(https://rawgit.com/Satskhi/EDTRCS/master/images/Icons/Woot.png);
     background-position: 0px 0px;
@@ -219,21 +221,22 @@
     transition:             all 0.3s ease;
 }
 #dj-button {
-    width: 158px;
+    width: 230px;
     border-radius: 4px;
     background-color: rgba(255, 255, 255, 0.1) !important;
 }
 #dj-button span {
+    width: 223px !important;
     margin-left: 5px;
 }
 #dj-button .left{
     height: 61px;
     border-radius: 4px;
-    width: 158px;
+    width: 230px;
     transition: 0.3s;
 }
 #dj-button .left .icon{
-    left: 65px;
+    left: 100px;
 }
 #dj-button:not(.is-locked):hover .left {
     top: -53px;
