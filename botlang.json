@@ -286,5 +286,6 @@
     "roleta": "A Roleta valendo a possiÃ§Ã£o %%POS%% foi iniciada! Use !entrar para participar!",
     "setRoleta": "PosiÃ§Ã£o da Roleta alterada para: %%POS%%",
     "killtroll": "\/me [@%%NAME%%] Roleta Troll desativada.",
-    "autoroleta": "Auto roleta"
+    "autoroleta": "Auto roleta",
+    "autoroletaInterval": "Tempo do AutoRoletda definido para %%TIME%% músicas."
 }
