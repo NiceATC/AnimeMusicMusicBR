@@ -227,6 +227,8 @@
     "kick": "[@%%NAME%%], @%%USERNAME%% voc\u00ea est\u00e1 sendo kickado da comunidade por %%TIME%% minutos.",
     "kill": "\/me E morreu...",
     "logout": "\/me [@%%NAME%%] Deslogando %%BOTNAME%%",
+    "currenttema": "\/me Tema permitido no momento: %%TEMA%%",
+    "temaset": "\/me Tema permitido alterado para: %%TEMA%%",
     "rouletteleave": "\/me @%%NAME%% deixou a Roleta Troll! medroso.gif",
     "songlink": "\/me [@%%NAME%%] Link para a m\u00fasica atual: %%LINK%%",
     "usedlockskip": "\/me [%%NAME%% usou 'lockskip']",
