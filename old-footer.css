@@ -1,0 +1,28 @@
+#footer-user .info {
+	display: block;
+	width: 85%;
+	top: 0;
+	background: transparent !important;
+}
+#footer-user .info .name,
+#footer-user .info .meta {
+	left: 0px;
+}
+#footer-user .info .points .pp {
+	top: 0;
+}
+#footer-user .info .meta .bar {
+	width: 200px !important;
+}
+#footer-user .buttons .button {display: none;}
+#footer-user .buttons .button.settings {
+	display: block;
+	float: right;
+	width: 15%;
+}
+#footer-user .info .points {
+  left: 11px !important;
+}
+#footer-user .info {
+  left: 10px !important;
+}
