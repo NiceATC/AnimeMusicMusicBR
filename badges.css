@@ -41,9 +41,6 @@
     float: left;
     margin-left: 8px;
 }
-[data-cid^="3926149-"] .msg .from .un {
-    color: #ac76ff !important;
-}
 [data-cid^="3926149-"] #chat .emote {
     background: rgba(37,185,97,0.3) !important;
     border-left: rgb(37,185,97) 3px solid !important;
