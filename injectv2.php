@@ -1,6 +1,6 @@
 
 {
-    "room": "World Of Pop | Brasil",
+    "room": "★ Hardstyle & Electronic Music ★",
     "author": "-DATABASE-",
     "css": "https://worldofpop.tk/theme/import-v1.css",
     "icon": "https://i.imgur.com/ygXrAY0.png",
