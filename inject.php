@@ -2,7 +2,7 @@
 {
     "room": "World Of Pop | Brasil",
     "author": "-DATABASE-",
-    "css": "",
+    "css": "https://worldofpop.tk/theme/import-v1.css",
     "icon": "https://i.imgur.com/ygXrAY0.png",
     
     "rules": {
