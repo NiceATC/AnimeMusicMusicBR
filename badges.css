@@ -381,3 +381,25 @@
     border-left: rgb(37,185,97) 3px solid !important;
 }
 /* Wiome */
+
+/* TiaVidel 30x30 */
+[data-cid^="3486336-"] .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/tTY4zO5.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+#user-rollover.id-3486336 .badge-box .bdg {
+    border-radius: 5px !important;
+    background-image: url("http://i.imgur.com/tTY4zO5.gif") !important;
+    background-repeat: round !important;
+    background-size: 30px !important;
+}
+[data-cid^="3486336-"] .msg .from .un {
+    color: #ac76ff !important;
+}
+[data-cid^="3486336-"] #chat .emote {
+    background: rgba(37,185,97,0.3) !important;
+    border-left: rgb(37,185,97) 3px solid !important;
+}
+/* TiaVidel */
